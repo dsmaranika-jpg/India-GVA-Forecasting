@@ -13,4 +13,4 @@ This project analyzes and forecasts India's quarterly GVA data from 2011 to 2023
 *   **Software:** R (using `forecast`, `tseries`, and `readxl` packages)
 
 ## Author
-Smaranika Dash (252PFE014)
+Smaranika Dash 
